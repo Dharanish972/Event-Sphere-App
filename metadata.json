@@ -1,0 +1,6 @@
+{
+  "name": "Event Sphere",
+  "description": "A modern, professional Event Management application featuring dashboard analytics, ticket booking, user registration, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
